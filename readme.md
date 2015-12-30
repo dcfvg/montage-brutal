@@ -1,7 +1,7 @@
 montage brutal
 =====
 
-![](preview.jpg)
+![](https://docs.google.com/drawings/d/16LTxQ-3PwxdE70JrpYu6atQQRjNkU-xADDuiAaq8Ocw/pub?w=960&amp;h=1080)
 
 >En rentrant de vacances avec 7 h de rush enregistré avec ma caméra submersible se pose la question du visionnage de ces images. Les longueurs et le cadre tremblant rendent les séquences souvent assez ennuyeuses. Faire un montage demande de regarder l’intégralité de ce qui a été filmé et ça en découragera plus d’un …
 
