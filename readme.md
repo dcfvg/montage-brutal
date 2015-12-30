@@ -3,15 +3,17 @@ montage brutal
 
 ![](https://docs.google.com/drawings/d/16LTxQ-3PwxdE70JrpYu6atQQRjNkU-xADDuiAaq8Ocw/pub?w=960&amp;h=1080)
 
->En rentrant de vacances avec 7 h de rush enregistré avec ma caméra submersible se pose la question du visionnage de ces images. Les longueurs et le cadre tremblant rendent les séquences souvent assez ennuyeuses. Faire un montage demande de regarder l’intégralité de ce qui a été filmé et ça en découragera plus d’un …
+> En rentrant de vacances avec des dizaines d’heure de vidéos: c’est la panique. 
 
-## mode éditeur
+**A — montage**
+1. Choisir une **durée à consacrer au montage**
+2. À partir de cette durée, le logiciel **accélère la séquence** (ex. 9 min pour 9 h de vidéo : x 60)
+3. Une manette à 255 niveaux de sensibilité me permet de **moduler la vitesse** et de ralentir la vitesse quand un détail attire l’attention jusqu’a l’arrêt sur image. 
+4. Les ralentissements sont enregistrés sous forme d’une **courbe**.
+5. Afin de maintenir la durée totale déterminée au départ, **ralentir un moment accélère l’ensemble de la vidéo**.
 
-1. Choisir le **temps à consacrer au montage** : le logiciel va automatiquement accélérer la séquence (ex. pour monter en 6 minutes une séquence de 60 min je vais la regarder en x10)
+**B — visionnage**
+1. Choisir une **durée à consacrer au visionnage**
+2. Le logiciel sélectionne les moments les plus ralentis jusqu’a obtenir la durée souhaitée.
 
-2. Le film est diffusé en **accéléré**. Grâce à un **Régulateur de vitesse** de il est possible de **ralentir** ou marquer des **pauses** aux endroits qui éveillent la **curiosité** ou me rappelle un **souvenir**. Ces pauses et ces variations de vitesse sont **enregistrées** par l’application. 
-
-3. La durée de la séquence reste constante : *ralentir un instant c’est accélérer tout le reste de la séquence*.
-
-## mode lecteur
-1. Choisir un **temps à consacrer au visionnage** : l’application va créer un montage, à vitesse réelle, en commençant à sélectionner les moments les plus ralentis en « mode éditeur » jusqu’à atteindre la durée souhaitée. 
+(vimeo: http://vimeo.com/85620651)
